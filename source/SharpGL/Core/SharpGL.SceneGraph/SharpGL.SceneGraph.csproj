@@ -29,22 +29,22 @@
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'net472'">
     <PackageReference Include="System.Drawing.Common">
-      <Version>4.7.0</Version>
+      <Version>8.0.3</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp3.0'">
     <PackageReference Include="System.Drawing.Common">
-      <Version>4.7.0</Version>
+      <Version>8.0.3</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp3.1'">
     <PackageReference Include="System.Drawing.Common">
-      <Version>4.7.0</Version>
+      <Version>8.0.3</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'netcoreapp2.0'">
     <PackageReference Include="System.Drawing.Common">
-      <Version>4.7.0</Version>
+      <Version>8.0.3</Version>
     </PackageReference>
   </ItemGroup>
   <PropertyGroup>
